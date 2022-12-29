@@ -1,4 +1,4 @@
-FROM ruby
+FROM ruby:3.2.0-alpine
 MAINTAINER Klaus Meyer <spam@klaus-meyer.net>
 
 ARG SOURCE_COMMIT
