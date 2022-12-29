@@ -1,5 +1,4 @@
-FROM docker.io/ruby:3.2.0-alpine
-
+FROM ruby
 MAINTAINER Klaus Meyer <spam@klaus-meyer.net>
 
 ARG SOURCE_COMMIT
